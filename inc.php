@@ -13,7 +13,7 @@
 
   function meteo () {
 
-    $meteo  = '<div id="cont_NDQxNDN8NXwzfDF8NHwwMDAwMDB8MnxGRkZGRkZ8Y3wx"><div id="spa_NDQxNDN8NXwzfDF8NHwwMDAwMDB8MnxGRkZGRkZ8Y3wx"><a id="a_NDQxNDN8NXwzfDF8NHwwMDAwMDB8MnxGRkZGRkZ8Y3wx" href="http://www.meteocity.com/france/reze_v44143/" target="_blank" style="color:#333;text-decoration:none;">Météo Rezé</a> ©<a href="http://www.meteocity.com">meteocity.com</a></div><script type="text/javascript" src="http://widget.meteocity.com/js/NDQxNDN8NXwzfDF8NHwwMDAwMDB8MnxGRkZGRkZ8Y3wx"></script></div>';
+    $meteo  = ' <--COLLER LE CODE WIDGET METEO ICI--> ';
 
     return $meteo;
   }
