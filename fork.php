@@ -3,8 +3,8 @@
 function ping_fork() {
 
   $hosts_ip = array(
-                    'STORA'    => array('192.168.137.100', '5674'),
-                    'Plex'    => array('192.168.137.99', '32400')
+                    'machine1'    => array('0.0.0.0', '0'),
+                    'machine2'    => array('0.0.0.0', '0')
                   );
 
   $pids  = array();
